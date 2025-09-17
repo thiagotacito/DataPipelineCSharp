@@ -1,6 +1,6 @@
 # NomeDoProjeto
 
-Descri��o breve do projeto.
+Descrição breve do projeto.
 
 ## Tecnologias
 
@@ -10,9 +10,17 @@ Descri��o breve do projeto.
 
 ## Estrutura
 
-- `src/` - c�digo-fonte
+- `src/` - código-fonte
 - `tests/` - testes (se houver)
-- `docs/` - documenta��o (se houver)
+- `docs/` - documentação (se houver)
+
+## Ainda falta fazer
+- Processamento background com RabbitMQ
+- Rever os TODO que estão no código para mudar a lógica
+- Fazer testes
+- Implementar outra pipeline (bancária)
+- refinar a arquietura
+- Trabalhar com Múltiplos Settings de arquivos
 
 ## Como rodar
 
