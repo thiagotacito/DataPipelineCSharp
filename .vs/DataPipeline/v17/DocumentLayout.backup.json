@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Learning\\DataPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.sharedkernel\\validation\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|solutionrelative:datapipeline.sharedkernel\\validation\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6FACAF-C3CD-4765-9120-A182E2459C8F}|DataPipeline.WebApi\\DataPipeline.WebApi.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.webapi\\controllers\\datatraffic\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6FACAF-C3CD-4765-9120-A182E2459C8F}|DataPipeline.WebApi\\DataPipeline.WebApi.csproj|solutionrelative:datapipeline.webapi\\controllers\\datatraffic\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.application\\services\\datatraffic\\vehicledataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|solutionrelative:datapipeline.application\\services\\datatraffic\\vehicledataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.infrastructure\\files\\datatraffic\\dppfileconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|solutionrelative:datapipeline.infrastructure\\files\\datatraffic\\dppfileconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.sharedkernel\\interfaces\\ifileconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|solutionrelative:datapipeline.sharedkernel\\interfaces\\ifileconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.sharedkernel\\interfaces\\ifileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354FF9A8-1E17-4193-BA41-62D3C9A4C149}|DataPipeline.Sharedkernel\\DataPipeline.Sharedkernel.csproj|solutionrelative:datapipeline.sharedkernel\\interfaces\\ifileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.infrastructure\\settings\\csvsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|solutionrelative:datapipeline.infrastructure\\settings\\csvsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.application\\common\\interfaces\\ifilesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|solutionrelative:datapipeline.application\\common\\interfaces\\ifilesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6FACAF-C3CD-4765-9120-A182E2459C8F}|DataPipeline.WebApi\\DataPipeline.WebApi.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6FACAF-C3CD-4765-9120-A182E2459C8F}|DataPipeline.WebApi\\DataPipeline.WebApi.csproj|solutionrelative:datapipeline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.infrastructure\\files\\datatraffic\\csvvehicleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8AB212-C0FD-4803-95AC-D6CB5C72F81C}|DataPipeline.Infrastructure\\DataPipeline.Infrastructure.csproj|solutionrelative:datapipeline.infrastructure\\files\\datatraffic\\csvvehicleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|c:\\projects\\learning\\datapipeline\\datapipeline.application\\parsers\\datatraffic\\vehicledtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC629FEF-C38C-4B27-9726-3569C938804A}|DataPipeline.Application\\DataPipeline.Application.csproj|solutionrelative:datapipeline.application\\parsers\\datatraffic\\vehicledtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Validation\\FileValidator.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Sharedkernel\\Validation\\FileValidator.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Validation\\FileValidator.cs",
+              "RelativeToolTip": "DataPipeline.Sharedkernel\\Validation\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:28:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.WebApi\\Controllers\\DataTraffic\\VehicleController.cs",
+              "RelativeDocumentMoniker": "DataPipeline.WebApi\\Controllers\\DataTraffic\\VehicleController.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.WebApi\\Controllers\\DataTraffic\\VehicleController.cs",
+              "RelativeToolTip": "DataPipeline.WebApi\\Controllers\\DataTraffic\\VehicleController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwFMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:07:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileConversor.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Interfaces\\IFileConversor.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Sharedkernel\\Interfaces\\IFileConversor.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Interfaces\\IFileConversor.cs",
+              "RelativeToolTip": "DataPipeline.Sharedkernel\\Interfaces\\IFileConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:02:48.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileParser.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Interfaces\\IFileParser.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Sharedkernel\\Interfaces\\IFileParser.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Sharedkernel\\Interfaces\\IFileParser.cs",
+              "RelativeToolTip": "DataPipeline.Sharedkernel\\Interfaces\\IFileParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:57:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DataPipeline.WebApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.WebApi\\Program.cs",
+              "RelativeToolTip": "DataPipeline.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:54:11.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Common\\Interfaces\\IFileSettings.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Application\\Common\\Interfaces\\IFileSettings.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Common\\Interfaces\\IFileSettings.cs",
+              "RelativeToolTip": "DataPipeline.Application\\Common\\Interfaces\\IFileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:49:23.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Settings\\CsvSettings.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Infrastructure\\Settings\\CsvSettings.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Settings\\CsvSettings.cs",
+              "RelativeToolTip": "DataPipeline.Infrastructure\\Settings\\CsvSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:43:03.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleDataService.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Services\\DataTraffic\\VehicleDataService.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Application\\Services\\DataTraffic\\VehicleDataService.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Services\\DataTraffic\\VehicleDataService.cs",
+              "RelativeToolTip": "DataPipeline.Application\\Services\\DataTraffic\\VehicleDataService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:41:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CsvVehicleParser.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Files\\DataTraffic\\CsvVehicleParser.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Infrastructure\\Files\\DataTraffic\\CsvVehicleParser.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Files\\DataTraffic\\CsvVehicleParser.cs",
+              "RelativeToolTip": "DataPipeline.Infrastructure\\Files\\DataTraffic\\CsvVehicleParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:11:22.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DppFileConversor.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Files\\DataTraffic\\DppFileConversor.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Infrastructure\\Files\\DataTraffic\\DppFileConversor.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Infrastructure\\Files\\DataTraffic\\DppFileConversor.cs",
+              "RelativeToolTip": "DataPipeline.Infrastructure\\Files\\DataTraffic\\DppFileConversor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:11:21.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleDtoParser.cs",
+              "DocumentMoniker": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Parsers\\DataTraffic\\VehicleDtoParser.cs",
+              "RelativeDocumentMoniker": "DataPipeline.Application\\Parsers\\DataTraffic\\VehicleDtoParser.cs",
+              "ToolTip": "C:\\Projects\\Learning\\DataPipeline\\DataPipeline.Application\\Parsers\\DataTraffic\\VehicleDtoParser.cs",
+              "RelativeToolTip": "DataPipeline.Application\\Parsers\\DataTraffic\\VehicleDtoParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:40:16.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
